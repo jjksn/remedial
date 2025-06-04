@@ -1,5 +1,3 @@
 blanco
 verde
 negro
-morado
-amarillo

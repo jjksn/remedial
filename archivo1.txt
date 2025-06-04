@@ -1,5 +1,3 @@
 manzana
 pera
 cereza
-sandia
-mora
