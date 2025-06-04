@@ -1,5 +1,5 @@
-rojo
+blanco
 verde
-anaranajdo
+negro
 morado
 amarillo

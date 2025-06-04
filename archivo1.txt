@@ -1,5 +1,5 @@
 manzana
 pera
-uva
-platano
+cereza
+sandia
 mora
